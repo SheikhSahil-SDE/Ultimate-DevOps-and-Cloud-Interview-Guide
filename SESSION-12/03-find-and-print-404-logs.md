@@ -1,7 +1,7 @@
 ## Python script to fetch logs from a log website and print all logs with 404: not found
 
 ### Short explanation
-This script fetches logs from a publicly available log file, parses it line by line, and prints all entries that include the `404` HTTP status code, which typically means "Not Found".
+This script fetches logs from a publicly available log file, parses it line by line, and prints all entries that include the `404` HTTP status code, which typically means "```Not Found```".
 
 ### Answer
 Use Python’s `requests` library to fetch the log file from a public URL and filter for lines containing `404`.
