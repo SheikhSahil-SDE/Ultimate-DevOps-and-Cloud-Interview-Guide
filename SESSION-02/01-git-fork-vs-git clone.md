@@ -14,7 +14,7 @@ When you **fork** a repository on GitHub, you're telling the platform:
 
 This is especially useful for contributing to open-source and team projects where you don't have direct write access to the main repository. You fork the repo, make changes in your fork, and then create a **pull request** to propose those changes to the original project.
 
-On the other hand, **`git clone`** is used to **download a repository (forked or original) to your local development machine**. This is what actually gives you the codebase to work with.
+> On the other hand, **`git clone`** is used to **download a repository (forked or original) to your local development machine**. This is what actually gives you the codebase to work with.
 
 Here’s how you’d typically use both:
 1. **Fork** the repo on GitHub (creates a copy under your GitHub username).
